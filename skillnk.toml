@@ -1,0 +1,3 @@
+[[imports]]
+url = "https://github.com/anthropics/skills/skills/skill-creator"
+name = "anthropic/skill-creator"

@@ -1,3 +1,4 @@
 [[imports]]
-url = "https://github.com/anthropics/skills/skills/skill-creator"
+url = "github.com/anthropics/skills/skills/skill-creator"
 name = "anthropic/skill-creator"
+version = "b9e19e6f44773509fbdd7001d77ff41a49a486c1"
